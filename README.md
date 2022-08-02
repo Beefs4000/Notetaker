@@ -3,9 +3,7 @@
 <h3 align="center">Notetaker</h3>
 
   <p align="center">
-    In this project we were tasked with making a Node.js command-line application. The idea to prompt the user with questions regarding an 
-    employee, once those answers are recorded, generate them in a html page for quick reference. The other aspect of the project was to test
-    your code using Jest, to make sure everything worked correctly.
+    In this project we were tasked with making a Note taking application. The idea is to allow the user to write, save and delete notes. Once those notes are entered, they will be saved using express.js and then retrieved from a JSON file.
     <br />
     <a href="https://github.com/Beefs4000/Testing"><strong>Explore the docs »</strong></a>
     <br />
