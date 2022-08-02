@@ -5,10 +5,10 @@
   <p align="center">
     In this project we were tasked with making a Note taking application. The idea is to allow the user to write, save and delete notes. Once those notes are entered, they will be saved using express.js and then retrieved from a JSON file.
     <br />
-    <a href="https://github.com/Beefs4000/Testing"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Beefs4000/Noteteker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://beefs4000.github.io/Testing/">View Demo</a>
+    <a href="https://beefs4000-notetaker.herokuapp.com/">View Demo</a>
     ·
     </p>
 </div>
@@ -25,12 +25,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -43,7 +37,6 @@
 
 * ![Entering Details](https://github.com/Beefs4000/Testing/blob/2f44880ff890ff16fefa2cf80de23a47dff3689d/Testing/Assets/Sreenshot1%20.jpg)
 * ![Testing complete](Testing/Assets/Sreenshot2.jpg)
-* [Video preview](https://drive.google.com/file/d/1PSP45Lvwo-rgYuJGWlOlzAof3PcEUDJB/view)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -51,36 +44,10 @@
 
 ### Built With
 
-* [Node.js](https://nodejs.org/en/)
-* [water.css](https://watercss.kognise.dev/)
 * [express.js](https://expressjs.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone git@github.com:Beefs4000/Testing.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Run using intergrated terminal
-   ```sh
-   node app.js
-   ```
-4. 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
