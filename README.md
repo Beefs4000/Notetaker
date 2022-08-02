@@ -36,7 +36,6 @@
 ## About The Project
 
 * ![Entering Details](https://github.com/Beefs4000/Testing/blob/2f44880ff890ff16fefa2cf80de23a47dff3689d/Testing/Assets/Sreenshot1%20.jpg)
-* ![Testing complete](Testing/Assets/Sreenshot2.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
