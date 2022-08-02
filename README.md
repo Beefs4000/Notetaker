@@ -71,6 +71,6 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@Justo_Tron](https://twitter.com/Justo_Tron) - justin.dennis@hotmail.com
 
-Project Link: [https://github.com/Beefs4000/Testing](https://github.com/Beefs4000/Testing)
+Project Link: [https://github.com/Beefs4000/Notetaker](https://github.com/Beefs4000/Notetaker)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
